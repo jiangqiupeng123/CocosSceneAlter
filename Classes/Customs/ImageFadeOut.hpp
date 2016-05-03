@@ -14,6 +14,8 @@
 
 USING_NS_CC;
 
+#define ads 1
+
 class ImageFadeOut:public Node {
     
 protected:
